@@ -1,0 +1,16 @@
+This is the parts list for the gloves. This list will include the links as well. 
+
+1st: Conductive Nylon Fabric Tape
+Link(s): https://www.adafruit.com/product/3961 
+
+2nd: Motherboard (ESP32-wroom-32)
+Link(s): https://www.amazon.com/KeeYees-Development-Bluetooth-Microcontroller-ESP-WROOM-32/dp/B07QCP2451/ref=sr_1_6?crid=34BEH972Z8649&keywords=esp32-wroom-32&qid=1644360747&sprefix=esp32-wroom%2Caps%2C152&sr=8-6
+
+3rd: Conductive Thread (Yarn)
+Links(s): https://www.adafruit.com/product/603
+
+4rd: Velostat
+Link(s): https://tinkersphere.com/conductive-thread-fabric/1454-velostat-pressure-sensitive-conductive-sheet.html
+
+5th (Optional): Flex Sensor Guide (Needs To Be 3D Printing Or Maded, Like From Cardboard)
+Link(s): https://github.com/TwidgeVR/bend_sensor_guide_node/blob/main/Flex%20Sensor%20Guide%20v2.stl
